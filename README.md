@@ -3,6 +3,14 @@
 </div> <h1 align="center">Hi :wave:,  I'm Nitesh Arora</h1> <h3 align="center">:rocket: Professional Android Developer | Innovator | Tech Enthusiast</h3>
 <p><img align="right"  src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="shlok-android-dev" width="250" height="190" style="padding: 40px; border-radius: 35px;  border: 5px solid #ccc;" /></p>
 
+:rocket: About Me
+:bulb: Building user-centric Android applications with cutting-edge technologies and frameworks.
+:seedling: Continuously enhancing skills in Jetpack Compose, Kotlin Multiplatform (KMP), and Flutter.
+:link: Seamlessly integrating third-party APIs and delivering robust solutions using Firebase, Retrofit, and Room DB.
+:dart: Passionate about scalable app architectures like MVVM & MVP.
+:chart_with_upwards_trend: On a mission to revolutionize the Android ecosystem through innovative apps and impactful solutions.
+:coffee: Fun fact: I can brainstorm creative app ideas faster than finishing my coffee!
+
 
 <h3 align="center">A passionate Android Developer created 800+ Events</h3>
 
