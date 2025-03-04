@@ -1,3 +1,9 @@
+
+<div align="center"> 
+  <img src="https://your-new-banner-image-url.com/banner.jpg" alt="Banner" />
+</div> 
+
+
 <h1 align="center">Hi 👋, I'm Nitesh Arora</h1>
 <h3 align="center">A passionate Android Developer created 800+ Events</h3>
 
