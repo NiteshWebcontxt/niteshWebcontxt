@@ -1,9 +1,9 @@
 
 <div align="center"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" alt="Banner" />
-</div> <h1 align="center">Hi :wave:, I'm Shlok Aggrawal</h1> <h3 align="center">:rocket: Professional Android Developer | Innovator | Tech Enthusiast</h3>
+</div> <h1 align="center">Hi :wave:,  I'm Nitesh Arora</h1> <h3 align="center">:rocket: Professional Android Developer | Innovator | Tech Enthusiast</h3>
 <p><img align="right"  src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="shlok-android-dev" width="250" height="190" style="padding: 40px; border-radius: 35px;  border: 5px solid #ccc;" /></p>
 
-<h1 align="center">Hi 👋, I'm Nitesh Arora</h1>
+
 <h3 align="center">A passionate Android Developer created 800+ Events</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshwebcontxt&label=Profile%20views&color=0e75b6&style=flat" alt="niteshwebcontxt" /> </p>
