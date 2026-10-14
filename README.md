@@ -12,7 +12,7 @@
 :coffee: Fun fact: I can brainstorm creative app ideas faster than finishing my coffee!
 
 
-<h3 align="center">A passionate Android Developer created 800+ Events</h3>
+<h3 align="center">A passionate FlutterDeveloper  & Android Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshwebcontxt&label=Profile%20views&color=0e75b6&style=flat" alt="niteshwebcontxt" /> </p>
 
