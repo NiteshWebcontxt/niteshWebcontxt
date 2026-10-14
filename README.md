@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently Worked On [Step Counter](https://github.com/NiteshWebcontxt/StepCounterKotlin)
 
-- 🌱 I’m currently learning **Flutter,KMP**
+- 🌱 I’m currently Working  **Flutter,Android**
 
 - 👯 I have collaborated on [USB Camera](https://github.com/Shlok-Android-Dev/USB-Camera)
 
